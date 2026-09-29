@@ -1,0 +1,1 @@
+"""Maritime Safety Copilot backend."""
